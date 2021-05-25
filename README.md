@@ -1,5 +1,12 @@
 # udacity-project2
-Stack Name: udacity-project2-stack
+1. Stack Name: udacity-project2-stack
+
+2. Resource Template Name : Udacity_Project2.yml 
+
+3. Parameters Template Name: Udacity_Project2_Parameters.json
+
+4. Lucid charts AWS Project Diagram: Udacity Example AWS Diagram.pdf
+
 
 # Output Load Balancer DNS URL: 
 ----------------------------------
